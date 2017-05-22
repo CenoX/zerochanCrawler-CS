@@ -1,0 +1,5 @@
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\x64\Debug\ZerochanCrawler.exe.config
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\x64\Debug\ZerochanCrawler.exe
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\x64\Debug\ZerochanCrawler.pdb
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\obj\x64\Debug\ZerochanCrawler.exe
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\obj\x64\Debug\ZerochanCrawler.pdb

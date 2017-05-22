@@ -1,0 +1,7 @@
+c:\users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\Debug\ZerochanCrawler.exe.config
+c:\users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\Debug\ZerochanCrawler.exe
+c:\users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\Debug\ZerochanCrawler.pdb
+c:\users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\obj\Debug\ZerochanCrawler.exe
+c:\users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\obj\Debug\ZerochanCrawler.pdb
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\Debug\ZerochanCrawler.exe.CodeAnalysisLog.xml
+C:\Users\shlee\documents\visual studio 2017\Projects\ZerochanCrawler\ZerochanCrawler\bin\Debug\ZerochanCrawler.exe.lastcodeanalysissucceeded
